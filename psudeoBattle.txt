@@ -1,0 +1,13 @@
+objects
+
+private variables
+
+player 1
+life points(hp)
+strength
+generator for a random number
+
+cpu
+life points(hp)
+strength
+generator for a random number
